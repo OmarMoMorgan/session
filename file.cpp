@@ -12,10 +12,8 @@ int main() {
 		a
 		sdf
 		asd
-		f
-		asdcz
-		st
-		h
-		sdfh
+		oadhig
+		sadogh
+		saodgbn
 
 }
