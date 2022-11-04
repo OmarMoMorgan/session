@@ -1,9 +1,21 @@
 using namespace std;
 
 int main() {
-	cout << "omar omar ";
+	int asdfkljasdnf
 
-	int no;
-	int asdfadsf;
-	asdfadsf = 0;
+		;
+
+	asdfasd
+		f
+		asdf; ads; fasdf
+		;;asdf
+		a
+		sdf
+		asd
+		f
+		asdcz
+		st
+		h
+		sdfh
+
 }
