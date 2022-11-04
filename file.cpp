@@ -3,6 +3,7 @@ using namespace std;
 int main() {
 	cout << "omar omar ";
 
-
-	int c;
+	int no;
+	int asdfadsf;
+	asdfadsf = 0;
 }
